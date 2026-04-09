@@ -9,7 +9,8 @@ of booking data.
 AtliQ Hotels dataset — Codebasics Power BI course project
 
 ## Data Model
-<img width="1221" height="697" alt="image" src="https://github.com/user-attachments/assets/ea9d9054-b725-4a34-8796-ad39aa1a7e00" />
+<img width="1477" height="715" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/0d6ba969-9530-4d3e-b848-430de00ad75e" />
+
 
 ## Tech Stack
 - Excel - Data Source
